@@ -1,0 +1,103 @@
+@media only screen and (min-width: 1920px) {
+    
+}
+
+@media only screen and (max-width: 1920px) {
+   
+}
+
+@media only screen and (max-width: 1366px) {
+    
+}
+
+@media only screen and (max-width: 1024px) {
+    .ed-bar-nav>li>a {
+        padding: 25px 10px;
+        font-size: 12px;
+    }
+    .box-bot-header {
+        padding: 15px 20px;
+    }
+    .txt-vlt h3 {
+        font-size: 18px;
+    }
+    .box-bot-header{
+        height: 215px;
+    }
+    .w3agile-list ul li {
+        margin: 0 1em;
+    }
+}
+
+@media only screen and (max-width: 1023px) {
+
+}
+
+@media only screen and (max-width: 960px) {
+
+}
+
+@media only screen and (max-width: 768px) {
+    .ed-bar-nav>li>a {
+        padding: 25px 5px;
+        font-size: 9px;
+    }
+    .box-bot-header {
+        height: unset;
+    }
+    .box-bot-header {
+        padding: 40px;
+    }
+    .txt-box-members h3 {
+    	font-size: 20px;
+    }
+
+}
+@media (max-width: 767px){
+
+}
+
+@media only screen and (max-width: 480px) {
+    .navbar-default .navbar-nav > li > a {
+        text-align: center;
+    }
+    .ed-carousel-inner div img {
+        height: 20em !important;
+    }
+    .wthree_banner_info{
+        padding: 10px;
+    }
+    .txt-news2{
+        margin-bottom: 40px;
+    }
+    .footer-icons ul li {
+        margin: 0 1em;
+    }
+    .agileinfo_newsletter_left h3 {
+        font-size: 25px;
+    }
+    .ed-txt-about h2{
+        font-size: 26px;
+    }
+    .padd1{
+        padding-right: 0;
+    }
+    .padd2{
+        padding-left: 0;
+    }
+}   
+
+@media only screen and (max-width: 375px) {
+	.pic-right-contact img {
+	    margin: 0px 15px 0 0px;
+	}
+}
+
+@media only screen and (max-width: 320px) {
+
+}
+
+@media only screen and (max-height: 560px) {
+    
+
+}
